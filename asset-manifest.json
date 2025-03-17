@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nutrition-chatbot/static/css/main.a5ef55fb.css",
-    "main.js": "/nutrition-chatbot/static/js/main.0e227477.js",
+    "main.js": "/nutrition-chatbot/static/js/main.59baf4ce.js",
     "static/js/453.dcdc8d69.chunk.js": "/nutrition-chatbot/static/js/453.dcdc8d69.chunk.js",
     "index.html": "/nutrition-chatbot/index.html",
     "main.a5ef55fb.css.map": "/nutrition-chatbot/static/css/main.a5ef55fb.css.map",
-    "main.0e227477.js.map": "/nutrition-chatbot/static/js/main.0e227477.js.map",
+    "main.59baf4ce.js.map": "/nutrition-chatbot/static/js/main.59baf4ce.js.map",
     "453.dcdc8d69.chunk.js.map": "/nutrition-chatbot/static/js/453.dcdc8d69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5ef55fb.css",
-    "static/js/main.0e227477.js"
+    "static/js/main.59baf4ce.js"
   ]
 }
